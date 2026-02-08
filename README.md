@@ -1,3 +1,3 @@
 # churn
-This is a Telco customer churn prediction repository.
+This is a Telco customer churn prediction repository.\n
 Author-Vidya
